@@ -4,7 +4,7 @@ I'm Sofya and I'm a Frontend developer 👩🏽‍💻
 
 - 🔭 I’m currently working on JavaScript and ReactJS
 - 🌱 I’m currently learning TypeScript and JS improvements
-- 💬 Ask me about tech, no-code, painting and skeytbord
+- 💬 Ask me about tech, no-code, painting and skateboard
 - ⚡ Technologies: React, Redux.
 
 
