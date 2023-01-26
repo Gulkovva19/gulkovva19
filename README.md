@@ -12,7 +12,7 @@ I'm Sofya and I'm a Frontend developer 👩🏽‍💻
 
 
 ### Contacts:
-- LinkedIn - (https://www.linkedin.com/in/sofya-gulkova-1ba9b2245/)
+- LinkedIn - https://www.linkedin.com/in/sofya-gulkova-1ba9b2245/
 - Telegram - gulkovva19
 - Mail - gulkova.sofya@yandex.ru
 
