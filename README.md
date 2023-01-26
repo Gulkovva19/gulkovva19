@@ -1,14 +1,15 @@
 ## Hi 👋,
 
-I'm Sofya and I'm a Frontend developer 👩🏽‍💻
+I'm Sofya and I'm a Frontend developer from Moscow👩🏽‍💻
 
 <div id="header" align="start">
   <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
-- 🔭 I’m currently working on JavaScript and ReactJS
-- 🌱 I’m currently learning TypeScript and JS improvements
-- 💬 Ask me about tech, no-code, painting and skateboarding
+- 👩‍💻 I’m currently working on TypeScript, ReactJS, VueJS
+- 🎓 I’m currently learning TypeScript and JS improvements
+- 📖 I have a channel about frontend development - https://t.me/frontendzapiski
+- 💬 Ask me about tech, no-code, painting and snowbording
 
 
 ### Contacts:
@@ -20,6 +21,8 @@ I'm Sofya and I'm a Frontend developer 👩🏽‍💻
 ### Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
