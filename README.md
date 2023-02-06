@@ -1,4 +1,4 @@
-## Hi 👋,
+## Hi ✌🏽,
 
 I'm Sofya and I'm a Frontend developer from Moscow👩🏽‍💻
 
@@ -6,16 +6,15 @@ I'm Sofya and I'm a Frontend developer from Moscow👩🏽‍💻
   <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
-- 👩‍💻 I’m currently working on TypeScript, ReactJS, VueJS
+- 💻 I’m currently working on TypeScript, ReactJS, VueJS
 - 🎓 I’m currently learning TypeScript and JS improvements
-- 📖 I have a channel about frontend development - https://t.me/frontendzapiski
+- 📖 I have a <a href="https://t.me/frontendzapiski" target="blank">channel</a> about frontend development
 - 💬 Ask me about tech, no-code, painting and snowbording
 
 ### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/sofya-gulkova-1ba9b2245/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://t.me/gulkovva19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
-</p>
+- <a href="https://www.linkedin.com/in/sofya-gulkova-1ba9b2245/" target="blank">LinkedIn</a>
+- <a href="https://t.me/gulkovva19" target="blank">Telegram</a>
+- <a href="gulkova.sofya@yandex.ru" target="blank">E-mail</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
