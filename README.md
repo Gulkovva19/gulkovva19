@@ -9,7 +9,7 @@ I'm Sofya and I'm a Frontend developer from Moscow👩🏽‍💻
 - 💻 I’m currently working on TypeScript, ReactJS, VueJS
 - 🎓 I’m currently learning TypeScript and JS improvements
 - 📖 I have a <a href="https://t.me/frontendzapiski" target="blank">channel</a> about frontend development
-- 💬 Ask me about tech, no-code, painting and snowbording
+- 💬 Ask me about tech, hiking, painting and snowbording
 
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/sofya-gulkova-1ba9b2245/" target="blank">LinkedIn</a>
