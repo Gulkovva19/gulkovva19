@@ -16,8 +16,6 @@ I'm Sofya and I'm a Frontend developer from Moscow👩🏽‍💻
 - <a href="https://t.me/gulkovva19" target="blank">Telegram</a>
 - <a href="gulkova.sofya@yandex.ru" target="blank">E-mail</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
