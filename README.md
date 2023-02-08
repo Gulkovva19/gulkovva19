@@ -1,5 +1,7 @@
 ## Hi ✌🏽,
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Gulkovva19's+Github+Profile..)](https://git.io/typing-svg)
+
 I'm Sofya and I'm a Frontend developer from Moscow👩🏽‍💻
 
 <div id="header" align="start">
@@ -15,6 +17,9 @@ I'm Sofya and I'm a Frontend developer from Moscow👩🏽‍💻
 - <a href="https://www.linkedin.com/in/sofya-gulkova-1ba9b2245/" target="blank">LinkedIn</a>
 - <a href="https://t.me/gulkovva19" target="blank">Telegram</a>
 - <a href="gulkova.sofya@yandex.ru" target="blank">E-mail</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Technologies:
 <div>
